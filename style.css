@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.red{ 
+  background-color: purple;
+  color: violet;
+  height:200px
+}
+.green{
+background-color: violet;
+color: purple;
+}
